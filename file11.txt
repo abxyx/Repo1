@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+ Hi, This is Abhishek.
+=======
+I have suucessfully pushed a file in this remote repo.
+>>>>>>> 6c7d51571bdf203451788a5127abcd02c0a634ee
